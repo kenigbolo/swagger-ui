@@ -37,7 +37,7 @@
     "gulp-concat": "^2.5.2",
     "gulp-connect": "^5.7.0",
     "gulp-declare": "^0.3.0",
-    "gulp-handlebars": "^3.0.1",
+    "gulp-handlebars": "^5.0.2",
     "gulp-header": "^1.2.2",
     "gulp-less": "^4.0.1",
     "gulp-order": "^1.1.1",
