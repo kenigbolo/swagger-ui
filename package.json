@@ -27,7 +27,7 @@
   },
   "readmeFilename": "README.md",
   "devDependencies": {
-    "chai": "^2.1.0",
+    "chai": "^4.2.0",
     "cors": "^2.5.3",
     "docco": "^0.7.0",
     "event-stream": "^3.2.2",
