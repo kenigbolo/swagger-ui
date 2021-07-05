@@ -47,7 +47,7 @@
     "gulp-wrap": "^0.15.0",
     "http-server": "git+https://github.com/nodeapps/http-server.git",
     "less": "^3.9.0",
-    "mocha": "^8.0.1",
+    "mocha": "^9.0.2",
     "selenium-webdriver": "^3.6.0",
     "swagger-client": "git+https://github.com/jensoleg/swagger-js.git"
   }
